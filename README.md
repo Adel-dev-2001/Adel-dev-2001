@@ -1,5 +1,13 @@
 ## Hi there 👋
+I am a Technical Architecture specialist transitioning into the world of Computer Science. I'm passionate about AI, Web Development, and building smart solutions.
 
+🚀 Current Goals:
+
+Master Computer Science fundamentals.
+
+Apply for the Russian Government Scholarship.
+
+Build innovative AI-powered projects.
 <!--
 **Adel-dev-2001/Adel-dev-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
